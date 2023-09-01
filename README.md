@@ -1,1 +1,1 @@
-My first readme
+Git learning probation period
